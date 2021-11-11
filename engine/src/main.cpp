@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-  delay(1000);
+  delay(100);
   digitalWrite(ONBOARD_LED, HIGH);
   delay(100);
   digitalWrite(ONBOARD_LED, LOW);
